@@ -1,0 +1,20 @@
+# OS Metadata files (prevents system junk files from appearing in your repo)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Common text editor / IDE configurations
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Future build directories (in case you scale this to a React/Vite app later)
+node_modules/
+dist/
+build/
+.env
+.env.local
